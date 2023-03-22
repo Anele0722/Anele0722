@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anele0722
-- 👀 I’m interested in blockchain,smart contract, solidity 
-- 🌱 I’m currently learning blockchain developmnet
-- 💞️ I’m looking to collaborate on Solidity projects 
+- 👀 I’m interested in blockchain and web3 
+- 🌱 I’m currently learning smart contract auditing 
+- 💞️ I’m looking to collaborate on smart contract, nft and dApp
 - 📫 How to reach me ayneetwala@gmail.com
 
 <!---
